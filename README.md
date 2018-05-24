@@ -46,10 +46,8 @@ Note that this will set all the passwords of the ethereum accounts.
 |   +-- app.json
 |   +-- entrypoint.sh
 |   +-- genesis.json
-|   +-- key.eth_1
-|   +-- key.eth_2
-|   +-- static-nodes_1.json
-|   +-- static-nodes_2.json
+|   +-- key.eth_1 / key.eth_2
+|   +-- static-nodes_1.json / static-nodes_2.json
 +-- Dockerfile
 +-- Makefile
 ```
